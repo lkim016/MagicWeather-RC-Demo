@@ -1,7 +1,6 @@
 # MagicWeather – RevenueCat Integration Demo
 # Attribute
-This project is based on RevenueCat’s MagicWeather example app:
-https://github.com/RevenueCat/react-native-purchases/tree/main/examples/MagicWeather  
+This project is based on RevenueCat’s MagicWeather example [app](https://github.com/RevenueCat/react-native-purchases/tree/main/examples/MagicWeather).  
 Configured with my own API keys and extended for learning/debugging purposes.
 
 # Magic Weather React Native - RevenueCat Sample

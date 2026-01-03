@@ -4,7 +4,7 @@
 */
 
 import {Platform} from 'react-native';
-import {rcApiKey as key} from '../env.json';
+import {rcApiKey as key} from './env.json';
 /*
 The API key for your app from the RevenueCat dashboard: https://app.revenuecat.com
 */
